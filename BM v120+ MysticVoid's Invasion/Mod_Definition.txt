@@ -1,0 +1,19 @@
+=======================================================================================
+MOD DEFINITION DATA FILE - BM v120+ MysticVoid's Invasion
+=======================================================================================
+
+=======================================================================================
+*BEGIN*
+=======================================================================================
+
+Mod Name                                 := BM v120+ MysticVoid's Invasion
+Description                              := Captain Kwok's "stock" version of Space Empires V modified by MysticVoid7x9 to add in a single planet based empire and changed fighter craft to be 10x bigger than normal to make them far less likely to break the combat sim.
+
+Check Readme.txt or captainkwok.net/balancemod.php for details on balance mod.
+Picture Filename                         := BalanceMod.bmp
+Allow Main Empires                       := FALSE
+Override InvConfiguration Slots          := FALSE
+
+=======================================================================================
+*END*
+=======================================================================================
